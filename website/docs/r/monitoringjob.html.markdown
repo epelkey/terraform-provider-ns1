@@ -60,7 +60,7 @@ The following arguments are supported:
 * `notes` - (Optional) Freeform notes to be included in any notifications about this job.
 * `rules` - (Optional) A list of rules for determining failure conditions. Job Rules are documented below.
 
-Monitoring Job Rules (`rules`) support the following:
+Monitoring Job Rules (`rules`) support the following
 
 * `key` - (Required) The output key.
 * `comparison` - (Required) The comparison to perform on the the output.
